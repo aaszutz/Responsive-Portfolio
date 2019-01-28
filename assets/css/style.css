@@ -309,7 +309,7 @@ body {
   }
 
  nav {
-   position: static;
+   position: center;
    clear: both;
    margin-bottom: 20px;
    margin-right: 80px;
